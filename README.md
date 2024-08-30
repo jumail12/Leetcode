@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/jumail12/Leetcode/tree/master/0190-reverse-bits) |
 | [0476-number-complement](https://github.com/jumail12/Leetcode/tree/master/0476-number-complement) |
 ## Binary Search
 |  |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/jumail12/Leetcode/tree/master/0066-plus-one) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/jumail12/Leetcode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
