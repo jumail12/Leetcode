@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jumail12/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jumail12/Leetcode/tree/master/0027-remove-element) |
+| [0344-reverse-string](https://github.com/jumail12/Leetcode/tree/master/0344-reverse-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/jumail12/Leetcode/tree/master/0190-reverse-bits) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/jumail12/Leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
