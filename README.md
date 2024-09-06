@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/jumail12/Leetcode/tree/master/0190-reverse-bits) |
+| [0389-find-the-difference](https://github.com/jumail12/Leetcode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/jumail12/Leetcode/tree/master/0476-number-complement) |
 | [2427-first-letter-to-appear-twice](https://github.com/jumail12/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Binary Search
@@ -43,11 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/jumail12/Leetcode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/jumail12/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jumail12/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/jumail12/Leetcode/tree/master/0389-find-the-difference) |
 | [2427-first-letter-to-appear-twice](https://github.com/jumail12/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [3194-find-words-containing-character](https://github.com/jumail12/Leetcode/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/jumail12/Leetcode/tree/master/0389-find-the-difference) |
 | [2427-first-letter-to-appear-twice](https://github.com/jumail12/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Counting
 |  |
@@ -57,4 +60,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/jumail12/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0389-find-the-difference](https://github.com/jumail12/Leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
