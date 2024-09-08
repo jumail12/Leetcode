@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/jumail12/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jumail12/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/jumail12/Leetcode/tree/master/0389-find-the-difference) |
+| [0742-to-lower-case](https://github.com/jumail12/Leetcode/tree/master/0742-to-lower-case) |
 | [2427-first-letter-to-appear-twice](https://github.com/jumail12/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [3194-find-words-containing-character](https://github.com/jumail12/Leetcode/tree/master/3194-find-words-containing-character) |
 ## Hash Table
