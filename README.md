@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/jumail12/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/jumail12/Leetcode/tree/master/0136-single-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jumail12/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0861-flipping-an-image](https://github.com/jumail12/Leetcode/tree/master/0861-flipping-an-image) |
 | [3194-find-words-containing-character](https://github.com/jumail12/Leetcode/tree/master/3194-find-words-containing-character) |
 ## Two Pointers
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/jumail12/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jumail12/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jumail12/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0861-flipping-an-image](https://github.com/jumail12/Leetcode/tree/master/0861-flipping-an-image) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/jumail12/Leetcode/tree/master/0190-reverse-bits) |
 | [0389-find-the-difference](https://github.com/jumail12/Leetcode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/jumail12/Leetcode/tree/master/0476-number-complement) |
+| [0861-flipping-an-image](https://github.com/jumail12/Leetcode/tree/master/0861-flipping-an-image) |
 | [2427-first-letter-to-appear-twice](https://github.com/jumail12/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Binary Search
 |  |
@@ -70,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/jumail12/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jumail12/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/jumail12/Leetcode/tree/master/0389-find-the-difference) |
+## Matrix
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/jumail12/Leetcode/tree/master/0861-flipping-an-image) |
+## Simulation
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/jumail12/Leetcode/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
