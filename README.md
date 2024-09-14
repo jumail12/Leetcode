@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/jumail12/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0861-flipping-an-image](https://github.com/jumail12/Leetcode/tree/master/0861-flipping-an-image) |
 | [3194-find-words-containing-character](https://github.com/jumail12/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3397-find-the-integer-added-to-array-i](https://github.com/jumail12/Leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 ## Two Pointers
 |  |
 | ------- |
