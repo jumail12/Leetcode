@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/jumail12/Leetcode/tree/master/0066-plus-one) |
+| [0412-fizz-buzz](https://github.com/jumail12/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/jumail12/Leetcode/tree/master/0415-add-strings) |
 | [2383-add-two-integers](https://github.com/jumail12/Leetcode/tree/master/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/jumail12/Leetcode/tree/master/2556-convert-the-temperature) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/jumail12/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jumail12/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/jumail12/Leetcode/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/jumail12/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/jumail12/Leetcode/tree/master/0415-add-strings) |
 | [0742-to-lower-case](https://github.com/jumail12/Leetcode/tree/master/0742-to-lower-case) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jumail12/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/jumail12/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/jumail12/Leetcode/tree/master/0415-add-strings) |
 | [0861-flipping-an-image](https://github.com/jumail12/Leetcode/tree/master/0861-flipping-an-image) |
 | [2058-concatenation-of-array](https://github.com/jumail12/Leetcode/tree/master/2058-concatenation-of-array) |
