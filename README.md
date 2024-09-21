@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/jumail12/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/jumail12/Leetcode/tree/master/0415-add-strings) |
 | [2383-add-two-integers](https://github.com/jumail12/Leetcode/tree/master/2383-add-two-integers) |
+| [2491-smallest-even-multiple](https://github.com/jumail12/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/jumail12/Leetcode/tree/master/2556-convert-the-temperature) |
 ## Divide and Conquer
 |  |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/jumail12/Leetcode/tree/master/0861-flipping-an-image) |
 | [2058-concatenation-of-array](https://github.com/jumail12/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jumail12/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/jumail12/Leetcode/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
