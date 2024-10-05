@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/jumail12/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2556-convert-the-temperature](https://github.com/jumail12/Leetcode/tree/master/2556-convert-the-temperature) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/jumail12/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+| [2619-categorize-box-according-to-criteria](https://github.com/jumail12/Leetcode/tree/master/2619-categorize-box-according-to-criteria) |
 ## Divide and Conquer
 |  |
 | ------- |
