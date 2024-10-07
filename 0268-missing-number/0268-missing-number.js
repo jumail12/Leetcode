@@ -9,11 +9,5 @@ var missingNumber = function(nums) {
         ns.push(i)
     }
     for(let i=0;i<=nums.length;i++){
-        if(  !(nums.includes(ns[i]))  ){
-              return i
-        }
-    }
-
-   
-    
+        if(  !(nums.includes(ns[i]))  ){return i}}
 };
