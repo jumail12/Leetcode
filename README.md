@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/jumail12/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1635-number-of-good-pairs](https://github.com/jumail12/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/jumail12/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/jumail12/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2058-concatenation-of-array](https://github.com/jumail12/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jumail12/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/jumail12/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/jumail12/Leetcode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/jumail12/Leetcode/tree/master/0476-number-complement) |
 | [0861-flipping-an-image](https://github.com/jumail12/Leetcode/tree/master/0861-flipping-an-image) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/jumail12/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2427-first-letter-to-appear-twice](https://github.com/jumail12/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Binary Search
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/jumail12/Leetcode/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/jumail12/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/jumail12/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/jumail12/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jumail12/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2235-capitalize-the-title](https://github.com/jumail12/Leetcode/tree/master/2235-capitalize-the-title) |
 | [2427-first-letter-to-appear-twice](https://github.com/jumail12/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
@@ -101,12 +104,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/jumail12/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/jumail12/Leetcode/tree/master/0389-find-the-difference) |
 | [1635-number-of-good-pairs](https://github.com/jumail12/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/jumail12/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2427-first-letter-to-appear-twice](https://github.com/jumail12/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/jumail12/Leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
 ## Counting
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/jumail12/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/jumail12/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2427-first-letter-to-appear-twice](https://github.com/jumail12/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Sorting
 |  |
