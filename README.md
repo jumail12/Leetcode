@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/jumail12/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2058-concatenation-of-array](https://github.com/jumail12/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jumail12/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2502-sort-the-people](https://github.com/jumail12/Leetcode/tree/master/2502-sort-the-people) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/jumail12/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/jumail12/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3311-ant-on-the-boundary](https://github.com/jumail12/Leetcode/tree/master/3311-ant-on-the-boundary) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jumail12/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2235-capitalize-the-title](https://github.com/jumail12/Leetcode/tree/master/2235-capitalize-the-title) |
 | [2427-first-letter-to-appear-twice](https://github.com/jumail12/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2502-sort-the-people](https://github.com/jumail12/Leetcode/tree/master/2502-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/jumail12/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/jumail12/Leetcode/tree/master/3379-score-of-a-string) |
 | [3567-convert-date-to-binary](https://github.com/jumail12/Leetcode/tree/master/3567-convert-date-to-binary) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/jumail12/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jumail12/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2427-first-letter-to-appear-twice](https://github.com/jumail12/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2502-sort-the-people](https://github.com/jumail12/Leetcode/tree/master/2502-sort-the-people) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/jumail12/Leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
 ## Counting
 |  |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/jumail12/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/jumail12/Leetcode/tree/master/0389-find-the-difference) |
 | [1019-squares-of-a-sorted-array](https://github.com/jumail12/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [2502-sort-the-people](https://github.com/jumail12/Leetcode/tree/master/2502-sort-the-people) |
 ## Matrix
 |  |
 | ------- |
