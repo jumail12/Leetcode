@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/jumail12/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/jumail12/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/jumail12/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jumail12/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/jumail12/Leetcode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/jumail12/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/jumail12/Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/jumail12/Leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/jumail12/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/jumail12/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/jumail12/Leetcode/tree/master/0326-power-of-three) |
