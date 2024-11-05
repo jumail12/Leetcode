@@ -174,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/jumail12/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/jumail12/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/jumail12/Leetcode/tree/master/0342-power-of-four) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/jumail12/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
