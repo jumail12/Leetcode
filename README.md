@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/jumail12/Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/jumail12/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/jumail12/Leetcode/tree/master/0415-add-strings) |
+| [1274-number-of-days-between-two-dates](https://github.com/jumail12/Leetcode/tree/master/1274-number-of-days-between-two-dates) |
 | [1610-xor-operation-in-an-array](https://github.com/jumail12/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/jumail12/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/jumail12/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/jumail12/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/jumail12/Leetcode/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/jumail12/Leetcode/tree/master/1205-defanging-an-ip-address) |
+| [1274-number-of-days-between-two-dates](https://github.com/jumail12/Leetcode/tree/master/1274-number-of-days-between-two-dates) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/jumail12/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jumail12/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jumail12/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
