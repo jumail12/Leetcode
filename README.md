@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/jumail12/Leetcode/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/jumail12/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/jumail12/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/jumail12/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/jumail12/Leetcode/tree/master/0069-sqrtx) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/jumail12/Leetcode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/jumail12/Leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/jumail12/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/jumail12/Leetcode/tree/master/0344-reverse-string) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/jumail12/Leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/jumail12/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jumail12/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jumail12/Leetcode/tree/master/0268-missing-number) |
