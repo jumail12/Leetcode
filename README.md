@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/jumail12/Leetcode/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/jumail12/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1274-number-of-days-between-two-dates](https://github.com/jumail12/Leetcode/tree/master/1274-number-of-days-between-two-dates) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/jumail12/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/jumail12/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jumail12/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jumail12/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/jumail12/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/jumail12/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1635-number-of-good-pairs](https://github.com/jumail12/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jumail12/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/jumail12/Leetcode/tree/master/1848-sum-of-unique-elements) |
@@ -234,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/jumail12/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/jumail12/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
