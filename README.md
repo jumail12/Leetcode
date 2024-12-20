@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/jumail12/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/jumail12/Leetcode/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/jumail12/Leetcode/tree/master/0520-detect-capital) |
+| [0535-encode-and-decode-tinyurl](https://github.com/jumail12/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jumail12/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/jumail12/Leetcode/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/jumail12/Leetcode/tree/master/1205-defanging-an-ip-address) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/jumail12/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/jumail12/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/jumail12/Leetcode/tree/master/0389-find-the-difference) |
+| [0535-encode-and-decode-tinyurl](https://github.com/jumail12/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [1635-number-of-good-pairs](https://github.com/jumail12/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jumail12/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/jumail12/Leetcode/tree/master/1848-sum-of-unique-elements) |
@@ -242,4 +244,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/jumail12/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+## Design
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/jumail12/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/jumail12/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
