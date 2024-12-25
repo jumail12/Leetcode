@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/jumail12/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jumail12/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1944-truncate-sentence](https://github.com/jumail12/Leetcode/tree/master/1944-truncate-sentence) |
+| [1954-replace-all-digits-with-characters](https://github.com/jumail12/Leetcode/tree/master/1954-replace-all-digits-with-characters) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jumail12/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2173-number-of-valid-words-in-a-sentence](https://github.com/jumail12/Leetcode/tree/master/2173-number-of-valid-words-in-a-sentence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/jumail12/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
