@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/jumail12/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1274-number-of-days-between-two-dates](https://github.com/jumail12/Leetcode/tree/master/1274-number-of-days-between-two-dates) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/jumail12/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/jumail12/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1651-shuffle-string](https://github.com/jumail12/Leetcode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/jumail12/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jumail12/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/jumail12/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [3311-ant-on-the-boundary](https://github.com/jumail12/Leetcode/tree/master/3311-ant-on-the-boundary) |
 ## Recursion
 |  |
