@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/jumail12/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2881-split-strings-by-separator](https://github.com/jumail12/Leetcode/tree/master/2881-split-strings-by-separator) |
 | [3194-find-words-containing-character](https://github.com/jumail12/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/jumail12/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3311-ant-on-the-boundary](https://github.com/jumail12/Leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/jumail12/Leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/jumail12/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/jumail12/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/jumail12/Leetcode/tree/master/2502-sort-the-people) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/jumail12/Leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/jumail12/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Counting
 |  |
 | ------- |
