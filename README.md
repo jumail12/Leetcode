@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/jumail12/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/jumail12/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/jumail12/Leetcode/tree/master/0136-single-number) |
+| [0204-count-primes](https://github.com/jumail12/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/jumail12/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/jumail12/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/jumail12/Leetcode/tree/master/0268-missing-number) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/jumail12/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/jumail12/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/jumail12/Leetcode/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/jumail12/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/jumail12/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/jumail12/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/jumail12/Leetcode/tree/master/0326-power-of-three) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/jumail12/Leetcode/tree/master/0204-count-primes) |
 | [2491-smallest-even-multiple](https://github.com/jumail12/Leetcode/tree/master/2491-smallest-even-multiple) |
 ## Geometry
 |  |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/jumail12/Leetcode/tree/master/0204-count-primes) |
 | [2442-number-of-arithmetic-triplets](https://github.com/jumail12/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 ## Queue
 |  |
