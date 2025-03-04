@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/jumail12/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2619-categorize-box-according-to-criteria](https://github.com/jumail12/Leetcode/tree/master/2619-categorize-box-according-to-criteria) |
 | [2752-sum-multiples](https://github.com/jumail12/Leetcode/tree/master/2752-sum-multiples) |
+| [2812-find-the-maximum-achievable-number](https://github.com/jumail12/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/jumail12/Leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/jumail12/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/jumail12/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
