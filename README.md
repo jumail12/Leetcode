@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/jumail12/Leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/jumail12/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/jumail12/Leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/jumail12/Leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/jumail12/Leetcode/tree/master/0231-power-of-two) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/jumail12/Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/jumail12/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/jumail12/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/jumail12/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/jumail12/Leetcode/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/jumail12/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/jumail12/Leetcode/tree/master/0231-power-of-two) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/jumail12/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/jumail12/Leetcode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/jumail12/Leetcode/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/jumail12/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/jumail12/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/jumail12/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/jumail12/Leetcode/tree/master/0290-word-pattern) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/jumail12/Leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/jumail12/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/jumail12/Leetcode/tree/master/0415-add-strings) |
 | [0861-flipping-an-image](https://github.com/jumail12/Leetcode/tree/master/0861-flipping-an-image) |
