@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/jumail12/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/jumail12/Leetcode/tree/master/1827-invalid-tweets) |
 | [1877-find-followers-count](https://github.com/jumail12/Leetcode/tree/master/1877-find-followers-count) |
+| [1892-find-total-time-spent-by-each-employee](https://github.com/jumail12/Leetcode/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/jumail12/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [1942-primary-department-for-each-employee](https://github.com/jumail12/Leetcode/tree/master/1942-primary-department-for-each-employee) |
 | [1948-rearrange-products-table](https://github.com/jumail12/Leetcode/tree/master/1948-rearrange-products-table) |
